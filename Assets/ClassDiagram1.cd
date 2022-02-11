@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DefaultNamespace.ECSManager">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAEAAAAAAAAAEAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\ECSManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultNamespace.MoveSystem">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\MoveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BucketController">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\BucketController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Melt">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAAQAAAAAAAAAAAAAAAAQCAAIAABAAAAACEA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\Melt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obi.ObiFluidPropertyColorizer">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAEIAAAAAAAAAAAAAAAAAAACEA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\ObiFluidPropertyColorizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OverlapTest">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAABCAAAAAAAAAAAAAABAAACAoAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\OverlapTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolidifyOnContact">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="SolidifyOnContact.SolidData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\SolidifyOnContact.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAQAAAAAAAAAAAAEAAgACAAIAAAQAAAACEA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\SolidifyOnContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveGenerator">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAAAAAAAAAAAAAEAAAAAACAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\WaveGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmitOnKeyPress">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAACAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Obi\Samples\Fluid\SampleResources\Scripts\EmitOnKeyPress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
